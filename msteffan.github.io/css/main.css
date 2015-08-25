@@ -242,6 +242,10 @@ a:visited {
     color: white;
 }
 
+.project-title.last {
+    text-align: center;
+}
+
 .project-bio {
     padding: 0 20px;
     color: white;
